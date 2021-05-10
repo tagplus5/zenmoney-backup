@@ -6,7 +6,7 @@
   "author": "tagplus5 <tagplus5@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "moment": "^2.27.0",
     "request": "^2.88.2",
     "request-promise-native": "^1.0.8"
